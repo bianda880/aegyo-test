@@ -1,0 +1,63 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #3739ac;
+  min-height: 680px;
+}
+
+.categori {
+  background-color: blue;
+  width: 75px;
+  text-align: center;
+  padding: auto;
+  border-radius: 5px;
+}
+.card-footer {
+  background-color: blue;
+}
+
+.desc {
+  margin-bottom: 1rem;
+  color: black;
+}
+
+.artikel {
+  margin-bottom: 2rem;
+}
+
+.foto {
+  padding-left: -30px;
+  margin-bottom: 3px;
+}
+
+h6 {
+  color: black;
+}
+
+.news {
+  display: flex;
+}
+
+.news p {
+  margin-top: -15px;
+}
+.news h6 {
+  font-size: 14px;
+}
+
+.manol {
+  margin-left: -20px;
+  margin-bottom: 10px;
+}
+
+.text-category {
+  color: purple;
+}
+
+.footer {
+  position: static(bottom);
+  padding-top: 15px;
+  width: 100%;
+  height: 60px;
+  background: #869ea0;
+  text-align: center;
+}
